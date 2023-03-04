@@ -7,3 +7,10 @@ int main()
     printf("%d",tot_square);
     return 0;
 }
+
+/*
+Test Case 1
+INPUT (STDIN)
+14
+EXPECTED OUTPUT
+1015
