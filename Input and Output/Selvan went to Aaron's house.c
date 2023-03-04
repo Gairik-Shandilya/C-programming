@@ -11,3 +11,12 @@ resnum1=num1;
 
 	return 0;
 }
+
+/*
+Test Case 1
+INPUT (STDIN)
+3.23
+5.67
+EXPECTED OUTPUT
+3.230000
+5.670000
